@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 <!-- 안녕하세요
+
+현재 코딩 연습 중입니다. 
+
+많은 관심 부탁드립니다. 
 **jaeheon1/jaeheon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
